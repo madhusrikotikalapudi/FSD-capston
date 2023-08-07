@@ -3,7 +3,7 @@
 	   width: 1520px ;
 	   background-color: silver;
 	   margin:0px;
-	   background-image: url('main1 (1).png');
+	   background-image: url('images/main1 (1).png');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 	   
@@ -45,7 +45,7 @@
 	  width: 440px;
 	  background-color: #F2BE22;
 	  margin:10px;
-	  background-image: url('pic2.jpg');
+	  background-image: url('images/pic2.jpg');
 	  background-repeat: no-repeat;
 	  background-size: cover;
 
@@ -61,7 +61,7 @@
 	  height: 210px;
 	  width: 440px;
 	  background-color: #F2BE22;
-	  background-image: url('picc4.jpg');
+	  background-image: url('images/picc4.jpg');
 	  margin:10px;
 	  background-repeat: no-repeat;
 	  background-size: cover;
@@ -76,7 +76,7 @@
 	  height: 210px;
 	  width: 440px;
 	  background-color:#F2BE22;
-	  background-image: url('pic3.jpg');
+	  background-image: url('images/pic3.jpg');
 	  margin:10px;
 
 }
@@ -187,7 +187,7 @@ p{
 	   height: 580px;
 	   width: 715px ;
 	   background-color: #F2BE22;
-	   background-image: url('black (1).png');
+	   background-image: url('images/black (1).png');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 }
@@ -221,7 +221,7 @@ p{
 	   width: 500px ;
 	   background-color: violet;
 	   
-	   background-image: url('taxi.jpg');
+	   background-image: url('images/taxi.jpg');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 	   position: relative;
@@ -257,7 +257,7 @@ p{
 	   width: 620px ;
 	   background-color: white;
 	   margin-right: 20px;
-	   background-image: url('girl.png');
+	   background-image: url('images/girl.png');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 }
@@ -271,7 +271,7 @@ p{
 	   height: 280px;
 	   width: 550px ;
 	   background-color: white;
-	   background-image: url('man.png');
+	   background-image: url('images/man.png');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 }
@@ -303,7 +303,7 @@ p{
 	   background-color: red;
 	   margin-bottom: 10px;
 	   margin-top: 10px;
-	   background-image: url('man2.png');
+	   background-image: url('images/man2.png');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 	   margin-left: 90px;
@@ -368,7 +368,7 @@ p{
 	   width: 330px;
 	   background-color: black;
 	   float: right;
-	   background-image: url('girl1.jpg');
+	   background-image: url('images/girl1.jpg');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 }
@@ -380,7 +380,7 @@ p{
 	   position: relative;
 	   right: 270px;
 	   top: 150px;
-	   background-image: url('taxi.jpg');
+	   background-image: url('images/taxi.jpg');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 }
@@ -397,7 +397,7 @@ p{
 	   width: 1500px;
 	   background-color:skyblue;
 	   margin-bottom:20px ;
-	   background-image: url('bridge (1).png');
+	   background-image: url('images/bridge (1).png');
 	   background-repeat: no-repeat;
 	   background-size: cover;
 }
